@@ -27,6 +27,17 @@
   <img src="https://stats-cyan-zeta.vercel.app/api?username=CBergane&show_icons=true&rank_icon=github&hide_border=true&cache_seconds=86400&theme=radical" height="150">
   <img src="https://stats-cyan-zeta.vercel.app/api/top-langs/?username=CBergane&layout=compact&hide_border=true&cache_seconds=86400" height="150">
 </p>
+<picture>
+  <source
+    srcset="https://stats-cyan-zeta.vercel.app/api?username=CBergane&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://stats-cyan-zeta.vercel.app/api?username=CBergane&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://stats-cyan-zeta.vercel.app/api?username=CBergane&show_icons=true" />
+</picture>
 <!-- Optional streak -->
 <!-- <img src="https://streak-stats.demolab.com?user=CBergane" height="150"> -->
 
