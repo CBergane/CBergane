@@ -23,9 +23,10 @@
 
 ## GitHub stats (auto-generated)
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CBergane&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<p>
+  <img src="https://stats-git-master-christian-berganes-projects.vercel.app/api?username=CBergane&show_icons=true&rank_icon=github&hide_border=true&cache_seconds=86400" height="150">
+  <img src="https://stats-git-master-christian-berganes-projects.vercel.app/api/top-langs/?username=CBergane&layout=compact&hide_border=true&cache_seconds=86400" height="150">
+</p>
 <!-- Optional streak -->
 <!-- <img src="https://streak-stats.demolab.com?user=CBergane" height="150"> -->
 
