@@ -24,7 +24,7 @@
 ## GitHub stats (auto-generated)
 
 
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbergane&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CBergane&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!-- Optional streak -->
 <!-- <img src="https://streak-stats.demolab.com?user=CBergane" height="150"> -->
