@@ -24,7 +24,7 @@
 ## GitHub stats (auto-generated)
 
 <p>
-  <img src="https://stats-cyan-zeta.vercel.app/api?username=CBergane&show_icons=true&rank_icon=github&hide_border=true&cache_seconds=86400" height="150">
+  <img src="https://stats-cyan-zeta.vercel.app/api?username=CBergane&show_icons=true&rank_icon=github&hide_border=true&cache_seconds=86400&theme=radical" height="150">
   <img src="https://stats-cyan-zeta.vercel.app/api/top-langs/?username=CBergane&layout=compact&hide_border=true&cache_seconds=86400" height="150">
 </p>
 <!-- Optional streak -->
