@@ -22,10 +22,8 @@
 **Other:** Bash, GitHub Actions, Cloudflare
 
 ## GitHub stats (auto-generated)
-<p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CBergane&show_icons=true&rank_icon=github&hide_border=true&cache_seconds=86400" height="150">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CBergane&layout=compact&hide_border=true&cache_seconds=86400" height="150">
-</p>
+
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CBergane&show_icons=true&theme=radical)
 
 <!-- Optional streak -->
 <!-- <img src="https://streak-stats.demolab.com?user=CBergane" height="150"> -->
